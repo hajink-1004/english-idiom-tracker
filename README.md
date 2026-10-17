@@ -29,7 +29,10 @@ npm run build
 npm run test:sites
 ```
 
-`dist/client`가 정적 사이트 출력입니다. Vercel 설정은 `vercel.json`에 포함되어 있습니다. 이 프로젝트는 아직 GitHub/Vercel에 배포되지 않았습니다.
+`dist/client`가 정적 사이트 출력입니다. Vercel 설정은 `vercel.json`에 포함되어 있습니다. GitHub main 브랜치를 Vercel과 연결해 공개 배포합니다.
+
+- GitHub: https://github.com/hajink-1004/english-idiom-tracker
+- 공개 앱: https://english-idiom-tracker.vercel.app/
 
 ## 검사용 코드
 
